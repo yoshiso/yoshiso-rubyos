@@ -10,3 +10,4 @@
 
 include_recipe 'yoshiso-base'
 include_recipe 'yoshiso-rbenv'
+include_recipe 'yoshiso-nvm'
